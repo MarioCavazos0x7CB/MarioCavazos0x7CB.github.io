@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarioCavazos0x7CB/MarioCavazos0x7CB.github.io/issues"
   },
-  "homepage": "https://github.com/MarioCavazos0x7CB/MarioCavazos0x7CB.github.io#readme"
+  "homepage": "https://github.com/MarioCavazos0x7CB/MarioCavazos0x7CB.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
